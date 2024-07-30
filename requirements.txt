@@ -66,7 +66,7 @@ gmpy2==2.0.8
 google-images-download==2.5.0
 googletrans==2.4.0
 greenlet==0.4.15
-grpcio==1.16.1
+grpcio==1.53.2
 h5py==2.9.0
 heapdict==1.0.0
 html5lib==1.0.1
